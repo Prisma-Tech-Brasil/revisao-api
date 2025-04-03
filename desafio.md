@@ -13,7 +13,7 @@ Criar uma API RESTful usando Node.js e Express.js para gerenciar uma lista de ta
 ## 🔧 Requisitos
 - Utilizar Express.js para criar a API.
 
-Utilizar um array em memória como banco de dados (não precisa de banco real).
+- Utilizar um array em memória como banco de dados (não precisa de banco real).
 
 - Criar rotas REST para operações CRUD (Create, Read, Update, Delete).
 
